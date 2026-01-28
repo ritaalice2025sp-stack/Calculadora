@@ -24,5 +24,12 @@ A calculadora permite realizar 5 tipos de operações:
 ## Aprendizados
 Neste projeto, reforcei como converter entradas de texto para números decimais (`float`) e como organizar um menu interativo para que a experiência do usuário seja clara e direta.
 
+## Como executar
+1. Certifique-se de ter o Python instalado.
+2. Clone o repositório ou baixe o arquivo `.py`.
+3. No terminal, execute:
+   ```bash
+   python calculadora.py
+
 
 
