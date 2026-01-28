@@ -19,7 +19,7 @@ A calculadora permite realizar 5 tipos de operações:
 
 ## 💻 Tecnologias Utilizadas
 * **Python 3**: Linguagem principal utilizada.
-* **VS Code**: Editor de código (ou o editor que você usou).
+* **VS Code**: Editor de código.
 
 ## 📝 Aprendizados
 Neste projeto, reforcei como converter entradas de texto para números decimais (`float`) e como organizar um menu interativo para que a experiência do usuário seja clara e direta.
